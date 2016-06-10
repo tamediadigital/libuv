@@ -41,6 +41,8 @@ import core.stdc.stdint;
 import deimos.uv.utility.tree;
 import deimos.uv.utility.threadpool;
 
+import deimos.uv;
+
 enum MAX_PIPENAME_LEN = 256;
 
 enum S_IFLNK = 0xA000;
