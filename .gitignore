@@ -1,0 +1,7 @@
+.dub
+
+liblibuv.a
+
+dub.selections.json
+
+*.a

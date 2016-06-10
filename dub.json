@@ -1,0 +1,15 @@
+{
+	"name": "uv",
+	"authors": [
+		"Yaroshenko Ilya"
+	],
+	"description": "Interface to the C uv library",
+	"copyright": "Copyright © 2016, Tamedia Digital",
+	"license": "BSL-1.0",
+    "sourcePaths": [
+            "deimos"
+    ],
+     "libs": [
+            "uv"
+    ]
+}
