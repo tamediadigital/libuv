@@ -5,7 +5,7 @@
 	],
 	"description": "Interface to the C uv library",
 	"copyright": "Copyright © 2016, Tamedia Digital",
-	"license": "BSL-1.0",
+	"license": "MIT",
     "sourcePaths": [
             "deimos"
     ],
